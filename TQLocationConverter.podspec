@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/TinyQ/TQLocationConverter"
   s.license      = "MIT"
   s.author       = { "qfu" => "tinyqf@gmail.com" }
-  s.platform     = :ios, "5.0"
+  s.platform     = :ios, "14.0"
   s.source       = { :git => "https://github.com/TinyQ/TQLocationConverter.git", :tag => "v0.0.1" }
   s.source_files = "TQLocationConverter.{h,m}"
   s.frameworks   = "CoreLocation"
